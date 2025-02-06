@@ -1,5 +1,5 @@
 
-# Push Notifications iOS Sample tampalte
+# Push Notifications iOS Sample
 This repository contains a basic implementation that receives Push notifications. 
 
 This repository serves as the foundational code for the accompanying blog post.[Unlocking Firebase iOS Push Notifications](https://javios.eu/swift/harnessing-nfc-technology-in-your-ios-app/) 
